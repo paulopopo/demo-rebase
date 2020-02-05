@@ -1,4 +1,3 @@
 # demo-rebase
 
-Hello everyone 
-My name is Paul	
+feature1.js will log text variable
