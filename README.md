@@ -1,4 +1,5 @@
-# demo-rebase
+** CHANGE LOG **
+
 
 feature1.js will log text variable
 
